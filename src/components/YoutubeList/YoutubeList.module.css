@@ -1,0 +1,15 @@
+.wrapper {
+    display: flex;
+}
+
+.smallVideo {
+    display: flex;
+    align-items: center;
+    margin: 1rem 0;
+    gap: .5rem;
+    background-color: #434343;
+}
+.smallVideo:hover {
+    translate: 4px 0;
+    background-color: #686868;
+}

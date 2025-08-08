@@ -1,0 +1,10 @@
+.wrapper {
+    margin-top: 1rem;
+    background: linear-gradient(145deg,#bf2a4899 0%, #ff5e5e99 100%);
+    
+}
+
+.footerContent {
+    text-align: center;
+    padding: 1rem 0;
+}

@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "lrOUvHdxZ0WSuVmbK6k5XDElRTs",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "BE",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l25jePVJ4-811Nu6hdGHQjGgO9E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YKSU82afy1w"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-15T19:09:37Z",
+        "channelId": "UCw7SNYrYei7F5ttQO3o-rpA",
+        "title": "DuckTales Theme Song | DuckTales | @disneychannel",
+        "description": "DuckTales Woo-oo! \"DuckTales\" chronicles the high-flying adventures of Duckburg's most famous trillionaire Scrooge McDuck, his ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YKSU82afy1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YKSU82afy1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YKSU82afy1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney Channel Animation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-15T19:09:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gJanbO6knKb74VizSryHAhvZ_xE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zZek9PFMYOw"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-16T17:00:04Z",
+        "channelId": "UCw7SNYrYei7F5ttQO3o-rpA",
+        "title": "All-New &quot;DuckTales&quot; Cast Sings Original Theme Song | DuckTales",
+        "description": "Top-billed actors will bring the beloved characters of McDuck Manor to life in the all-new animated comedy series \"DuckTales,\" ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zZek9PFMYOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zZek9PFMYOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zZek9PFMYOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney Channel Animation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-16T17:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mS3P79m0X-aHizVw8pH49YnObGI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ykl5F9BgNeY"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-28T21:58:40Z",
+        "channelId": "UCcEnBGI3DC6b40nj0usq9zA",
+        "title": "DuckTales (1987 Intro) [HD]",
+        "description": "The opening theme to \"DuckTales\". All rights to The Walt Disney Company, et al.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ykl5F9BgNeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ykl5F9BgNeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ykl5F9BgNeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DanChaotic1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-28T21:58:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ndYznXe_KeIKpvoAHML0Swq64Mw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H9cmPE88a_0"
+      },
+      "snippet": {
+        "publishedAt": "2011-03-22T18:32:13Z",
+        "channelId": "UCkeEIS6P_h9WSueOFbTj6Wg",
+        "title": "Ducktales full orginal theme",
+        "description": "The full orginal theme of the original ducktales series. You know, the better one from 1988.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H9cmPE88a_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H9cmPE88a_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H9cmPE88a_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dassenman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-03-22T18:32:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XitJyW51-kk6aa1Oye3mRh5V6Iw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-HLyot4UXhg"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-13T19:30:00Z",
+        "channelId": "UCw7SNYrYei7F5ttQO3o-rpA",
+        "title": "Epic Family Reunion! | DuckTales | Disney Channel",
+        "description": "Della has a heartwarming reunion with her boys Huey, Dewey, and Louie! Want more DuckTales? See it here!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-HLyot4UXhg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-HLyot4UXhg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-HLyot4UXhg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney Channel Animation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-13T19:30:00Z"
+      }
+    }
+  ]
+}
