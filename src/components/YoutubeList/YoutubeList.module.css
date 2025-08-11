@@ -5,10 +5,15 @@
 .smallVideo {
     display: flex;
     align-items: center;
-    margin: 1rem 0;
+    margin: 0 0;
     gap: .5rem;
     background-color: #434343;
 }
+
+.smallVideo:not(:first-child) {
+    margin: 1rem 0;
+}
+
 .smallVideo:hover {
     translate: 4px 0;
     background-color: #686868;

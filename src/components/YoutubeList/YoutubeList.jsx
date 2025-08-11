@@ -1,13 +1,12 @@
 import style from "./YoutubeList.module.css"
 import YoutubeThumbnail from "../YoutubeThumbnail/YoutubeThumbnail";
 
-export default function YoutubeList({data, onId = () => {}}) {
+export default function YoutubeList({data, onId = () => {}, played}) {
     console.log(data)
-
     return (
         <div className={style.wrapper}>
             <div>
-                {data.map((element, index) => 
+                {data.map((element, index) => (index != played ) ?
                 <YoutubeThumbnail key={index}
                     title={element.snippet.title}
                     image={element.snippet.thumbnails.medium.url}
@@ -15,7 +14,7 @@ export default function YoutubeList({data, onId = () => {}}) {
                     class_name={style.smallVideo}
                     index={index}
                     onId={onId}
-                />)}
+                /> : "")}
             </div>
         </div>
     );
